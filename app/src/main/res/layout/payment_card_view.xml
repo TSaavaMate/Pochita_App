@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="20dp"
+    app:cardBackgroundColor="#732DCD"
+    android:layout_height="wrap_content">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="15dp">
+    <TextView
+        android:id="@+id/numberOfUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Card #1"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/Nameoncard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+
+        android:layout_below="@id/numberOfUser"
+        android:inputType="textPersonName"
+        android:hint="Cardholder Name" />
+
+    <TextView
+        android:id="@+id/Cardnumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textSize="20sp"
+
+        android:hint="Cardholder number"
+        android:layout_below="@id/Nameoncard"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/dateOfCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textSize="20sp"
+        android:hint="MM/YY"
+        android:layout_below="@id/Cardnumber"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/Cvv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textSize="20sp"
+
+        android:hint="CVV"
+        android:layout_below="@id/dateOfCard"
+        android:inputType="date" />
+
+</RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

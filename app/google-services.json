@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914149224619",
+    "project_id": "pochita-8f8dd",
+    "storage_bucket": "pochita-8f8dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914149224619:android:774e5dab787fcbbbea07ee",
+        "android_client_info": {
+          "package_name": "com.example.Pochita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914149224619-e8aq3gchfk7pvq36lcp0j15cda86b2fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Pochita",
+            "certificate_hash": "9394164f9ac953d6ae90733f46409d178907b891"
+          }
+        },
+        {
+          "client_id": "914149224619-erik0t4i1gq3pkah76m35m0dnmjgvphr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRC6nglOghpc-RkOwcp-M5sa_-8tXVkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914149224619-erik0t4i1gq3pkah76m35m0dnmjgvphr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

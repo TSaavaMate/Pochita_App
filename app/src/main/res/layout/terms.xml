@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Free Membership Agreement"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Part A:  New version - updated on June13, 2022 and effective as of June 21, 2022"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:textSize="15sp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PLEASE READ THESE TERMS AND CONDITIONS
+        CAREFULLY! THIS FREE MEMBERSHIP AGREEMENT LIMITS THE
+        RIGHTS AND REMEDIES AVAILABLE TO MEMBERS WITH RESPECT
+        TO THE SERVICES AND CONTAINS BINDING OBLIGATIONS ON
+        MEMBERS. PLEASE PAY ATTENTION TO PROVISIONS THAT EXCLUDE
+        OR LIMIT LIABILITY, TERMS LIMITING MEMBERS’ ABILITY TO
+        SUE, AND TERMS OF GOVERNING LAW AND JURISDICTION, WHICH
+        MAY APPEAR IN CAPITAL LETTERS. THIS AGREEMENT RELATES TO
+        WWW.ALIEXPRESS.COM, WWW.ALIEXPRESS.RU, AND WWW.TMALL.RU.
+        1.  ACCEPTANCE OF TERMS
+        1.1    WELCOME TO ALIEXPRESS.COM'S FREE SERVICE (the
+        SERVICE). The following sets forth the terms and
+        conditions of the AliExpress.com Free Membership Agreement
+        (this Agreement) between you (“Member”) and the
+        AliExpress.com contracting company determined in
+        accordance with this clause 1.1 (AliExpress.com)
+        under which AliExpress.com offers you access to and
+        use of the Service through the websites, mobile sites,
+        mobile applications and other portals owned, operated,
+        branded or made available by AliExpress.com to you from
+        time to time relating to  the AliExpress e-commerce platform
+        including but not limited to the web and mobile-optimized
+        versions of the websites identified by the uniform resource
+        locator “www.aliexpress.com”, “www.aliexpress.ru” and “www.
+        tmall.ru” and their sub-domains, and the mobile applications
+        of the AliExpress e-commerce platforms (collectively the
+        “AliExpress Sites” or the “Sites”).
+a)If you are from mainland China, your contract is with Hangzhou Alibaba Advertising Co., Ltd, other than in relation to Promotion Services (as defined in the AliExpress.com Terms of Use), in which case your contract for such services is with Alibaba.com Hong Kong Limited.
+
+b)If you are from the United States of America, your contract is with AliExpress E-Commerce One Pte. Ltd.
+
+c)If you are from a place outside mainland China,  the United States of America or the Relevant Jurisdictions (as defined in (d) below), your contract is with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
+
+d)Notwithstanding anything to the contrary in the forgoing paragraphs (a), (b)and (c), if you are resident in or access and use AliExpress Sites from any of the Relevant Jurisdictions (the “AliExpress Relevant Jurisdiction User”), your contract is with AliExpress Russia Holding Private Limited (incorporated in Singapore with Company Reg. No.201917627W). “Relevant Jurisdictions” shall mean the Russian Federation, Azerbaijan, Armenia, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Tajikistan and Uzbekistan.
+
+
+
+As some or part of the Service may be supported and provided by affiliates of AliExpress.com, AliExpress.com may delegate some aspects of the Service to its affiliates. Use of the Service indicates that you accept the terms and conditions set forth below. If you do not accept all of the terms and conditions, please do not use the Service. BY COMPLETING THE REGISTRATION PROCESS AND CLICKING THE I AGREE BUTTON, YOU ARE INDICATING YOUR CONSENT TO BE BOUND BY THIS AGREEMENT, THE SITE’S ALIEXPRESS.COM TERMS OF USE , ALIEXPRESS PRODUCT LISTING POLICY AND PRIVACY POLICY (DEFINED BELOW) WHICH ARE INCORPORATED HEREIN BY REFERENCE (COLLECTIVELY REFERRED TO AS THE TERMS OF USE). The AliExpress.com Free Membership Agreement will not take effect unless and until you have activated your Account. Terms not defined in this Agreement shall bear the same meaning as that contained in the Terms of Use.
+
+
+
+1.2     ALIEXPRESS.COM MAY AMEND THIS AGREEMENT AT ANY TIME BY POSTING THE AMENDED AND RESTATED AGREEMENT ON THE SITES. THE AMENDED AND RESTATED AGREEMENT SHALL BE EFFECTIVE IMMEDIATELY UPON POSTING. POSTING BY ALIEXPRESS.COM OF THE AMENDED AND RESTATED AGREEMENT AND YOUR CONTINUED USE OF THE SERVICE SHALL BE DEEMED TO BE ACCEPTANCE OF THE AMENDED TERMS. IT IS THE MEMBER’S RESPONSIBILITY TO REVIEW THE TERMS OF USE REGULARLY FOR UPDATES, AND THAT ALIEXPRESS.COM IS NOT REQUIRED TO PROVIDE AFFIRMATIVE NOTICE OF CHANGES TO THIS AGREEMENT BY ANY MEANS OTHER THAN POSTING THE UPDATES TO THE SITES.
+
+
+
+
+
+
+2.  THE SERVICE
+2.1    The Service will be offered free-of-charge for an unspecified time period unless terminated in accordance with the terms of this Agreement.
+
+
+
+2.2    The Service will have the following core features (which may be added to or modified, or suspended for scheduled or unscheduled maintenance purposes, from time to time at the sole discretion ofAliExpress.com and notified to you) (Free Member Benefits):
+
+a)Company Profile - allows each Member to display and edit basic information about its business, such as year and place of establishment, estimated annual sales, number of employees, and products and services offered, etc.
+
+b)Products - allows each Member to display and edit descriptions, specifications and images of at least 5 products.
+
+c)Unlimited Buyer Trade Lead Posting - allows each Member to post on the Sites for public display offers to buy products and services from other users of the Sites.
+
+
+
+2.3    ALIEXPRESS.COM MAY SUSPEND OR TERMINATE ALL OR PART OF THE ABOVE FREE MEMBER BENEFITS AT ANY TIME IN ITS SOLE DISCRETION WITHOUT LIABILITY FOR ANY LOSSES OR DAMAGES ARISING OUT OF OR IN CONNECTION WITH SUCH SUSPENSION OR TERMINATION.ALIEXPRESS.COM RESERVES THE RIGHT TO CHARGE FOR THE SERVICE OR ANY FEATURE OR FUNCTIONALITY OF THE SERVICE AT ANY TIME IN ITS SOLE DISCRETION.
+
+
+
+2.4    Benefits, features and functions available to a Member may vary for different countries and regions. No warranty or representation is given that a particular feature or function or the same type and extent of features and functions will be available.
+
+
+
+2.5    The availability of any transactional features and functions on the Sites to any Member may be conditional on verification of Member’s identity and/or its designated bank account by AliExpress.com and/or its approved independent third parties.
+
+
+
+2.6    AliExpress.com shall issue a Member ID and Password (the latter shall be chosen by the Member during registration) to each Member to access the Service through such Member's Account. Each Member shall be solely responsible for maintaining the confidentiality of its Member ID and Password and for all use of and activities that occur under the Member ID and Password (whether such use or activities are authorized or not). A set of Member ID and Password is unique to a single Account and no Member shall share, assign or permit the use of its Account, Member ID or Password to another person, even to other individuals within the Member's own business entity (where applicable). Each Member acknowledges that sharing of its Account with other persons, or allowing multiple users outside of its business entity to use its Account (collectively, multiple use), may cause irreparable harm to AliExpress.com. EACH MEMBER SHALL INDEMNIFY ALIEXRESS.COM AGAINST ANY LOSS OR DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS) SUFFERED BY ALIEXPRESS.COM AS A RESULT OF SUCH MULTIPLE USE OF AN ACCOUNT. Each Member hereby undertakes to notify AliExpress.com immediately of any unauthorized use of its Account, Member ID or Password or any other breach of security. EACH MEMBER HEREBY AGREES THAT ALIEXPRESS.COM SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGES ARISING FROM THE MEMBER'S FAILURE TO COMPLY WITH THIS PARAGRAPH.
+
+
+
+2.7    ALIEXPRESS.COM RESERVES THE RIGHT TO CHANGE, UPGRADE, MODIFY, LIMIT OR SUSPEND THE SERVICE OR ANY OF ITS RELATED FUNCTIONALITIES OR APPLICATIONS AT ANY TIME TEMPORARILY OR PERMANENTLY WITHOUT PRIOR NOTICE, EXCEPT IN RESPECT OF ANY ALIEXPRESS RELEVANT JURISDICTION USERS. AliExpress.com further reserves the right but shall not be obliged to introduce new features, functionalities, applications or conditions to the Service or to future versions of the Service, except in respect of any AliExpress Relevant Jurisdiction Users. All new features, functionalities, applications, conditions, modifications, upgrades and alterations shall be governed by this Agreement, unless otherwise stated by AliExpress.com. In respect of any AliExpress Relevant Jurisdiction Users, AliExpress Russia Holding Private Limited is the relevant party.
+
+
+
+2.8    Each Member acknowledges that inability to use the Service wholly or partially for whatever reason may have adverse effects on its business. EACH MEMBER HEREBY AGREES THAT IN NO EVENT SHALL ALIEXPRESS.COM BE LIABLE TO THE MEMBER OR ANY THIRD PARTIES FOR ANY INABILITY TO USE THE SERVICE (WHETHER DUE TO DISRUPTION, CHANGES TO OR TERMINATION OF THE SERVICE OR OTHERWISE), ANY DELAYS, INACCURACIES, ERRORS OR OMISSIONS WITH RESPECT TO ANY COMMUNICATIONS OR TRANSMISSION OR DELIVERY OF ALL OR ANY PART THEREOF, OR ANY LOSSES OR DAMAGES (DIRECT, INDIRECT, CONSEQUENTIAL OR OTHERWISE) ARISING FROM THE USE OF OR INABILITY TO USE THE SERVICE.
+
+
+
+2.9    If your IP address comes from the mainland China when you successfully complete the registration with AliExpress.com, you will be granted an Alipay Username in addition to your Member ID.  If your registration was completed before March 18, 2013 or the email address you used for your registration has already been registered with other Alibaba Sites (as defined below), you will not be granted the Alipay Username. You are allowed to use the Alipay Username to login to the websites including www.alipay.com, www.taobao.com, www.tmall.com, www.etao.com, www.ju.taobao.com, www.aliyun.com, www.alibaba.com, www.china.alibaba.com and other websites (collectively, the “Alibaba Sites”). You hereby represent and agree to authorize AliExpress.com to provide all the information associated with your Member ID to the Alibaba Sites for the purpose of facilitating your easy and fast access to the Alibaba Sites. Your responsibilities with regard to the Alipay Username shall apply to the same terms and conditions in connection with the Member ID as prescribed under this Agreement. ALIEXPRESS.COM RESERVES THE RIGHT, WITHOUT PRIOR NOTICE AND AT ITS SOLE DISCRETION, TO SUSPEND, RESTRICT OR DENY ACCESS TO OR USE OF YOUR ALIPAY USERNAME AND SERVICES PROVIDED BY ALIEXPRESS.COM AND ALIBABA SITES WITHOUT LIABILITY FOR ANY LOSSES OR DAMAGES ARISING OUT OF OR IN CONNECTION WITH SUCH SUSPENSION OR TERMINATION, IF YOU: (A) USE THE SERVICES PROVIDED BY ALIEXPRESS.COM, OR THROUGH THE SITES AND THE ALIBABA SITES TO DEFRAUD ANY PERSON OR ENTITY; (B) ENGAGE IN ANY UNLAWFUL ACTIVITIES INCLUDING WITHOUT LIMITATION THOSE WHICH WOULD CONSTITUTE THE INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS, A CIVIL LIABILITY OR A CRIMINAL OFFENCE; (C) ENGAGE IN ANY ACTIVITIES THAT WOULD OTHERWISE CREATE ANY LIABILITY FOR ALIEXPRESS.COM, THE SITES OR THE ALIBABA SITES.
+
+
+
+2.10 If you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, company or business profile, product catalog, trade leads, business trust system and any discussion forum, you are deemed to have given consent to the publication of such information on the Sites.
+
+
+
+
+
+3.  MEMBER RESPONSIBILITIES
+3.1    Each Member hereby represents, warrants and agrees to (a) provide true, accurate, current, complete and timely information about itself and its business references as may be required by AliExpress.com and (b) maintain and promptly amend all information to keep it true, accurate, current, complete and timely. Business Member must provide its accurate registration information and other information required by AliExpress.com and update that if there is any change. To the extent permitted under applicable laws, each Member hereby grants an irrevocable, perpetual, worldwide and royalty-free, sub-licensable (through multiple tiers) license to AliExpress.com to display and use all information provided by such Member in accordance with the purposes set forth in this Agreement and to exercise the copyright, publicity, and database rights such Member has in such material or information, in any media now known or not currently known. Information that is protected under privacy and data protection laws will only be used and kept in compliance with those laws.
+
+
+
+3.2    Each Member hereby represents, warrants and agrees that the use by such Member of the Service and the Sites shall not:
+
+a)contain fraudulent or misleading information or make fraudulent offers of items or involve the sale or attempted sale of counterfeit or stolen items or items whose sales and/or marketing is prohibited by applicable law, or otherwise promote other illegal activities;
+
+b)be part of a scheme to defraud other Members or other users of the Sites or for any other unlawful purpose;
+
+c)infringe or otherwise abet or encourage the infringement or violation of any third party's copyright, patent, trademarks, trade secret or other proprietary right or rights of publicity and privacy or other legitimate rights;
+
+d)impersonate any person or entity, misrepresent yourself or your affiliation with any person or entity;
+
+e)violate any applicable law, statute, ordinance or regulation (including without limitation those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising);
+
+f)contain information that is defamatory, libelous, unlawfully threatening or unlawfully harassing;
+
+g)contain information that is obscene or contain or infer any pornography or sex-related merchandising or any other content or otherwise promotes sexually explicit materials or is otherwise harmful to minors;
+
+h)promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
+
+i)contain any material that constitutes unauthorized advertising or harassment (including but not limited to spamming), invades anyone's privacy or encourages conduct that would constitute a criminal offence, give rise to civil liability, or otherwise violate any law or regulation;
+
+j)involve attempts to copy, reproduce, exploit or expropriate AliExpress.com's various proprietary directories, databases and listings;
+
+k)involve any computer viruses or other destructive devices and codes that have the effect of damaging, interfering with, intercepting or expropriating any software or hardware system, data or personal information;
+
+l)involve any scheme to undermine the integrity of the computer systems or networks used by AliExpress.com and/or any user of the Service and no Member shall attempt to gain unauthorized access to such computer systems or networks;
+
+m)link directly or indirectly to or include descriptions of goods or services or other materials that violate any law or regulation or are prohibited under this Agreement or the Terms of Use;
+
+n)list or sell any product recalled by a manufacturer or governmental agency if the sale of the product is prohibited by law or regulation or the product poses a health or safety hazard as specified by any applicable governmental agency; or such product is subject to an interim and permanent ban imposed by any applicable governmental agency; or where such product is subject to a public notice of defect or failure to comply has been issued by an applicable governmental agency; or
+
+otherwise create any liability for AliExpress.com or its affiliates.
+
+
+
+3.3    Each Member represents, warrants and agrees that with regards to information about or posted on behalf of any business referee, it has obtained all necessary consents, approvals and waivers from such referee to (a) act as such Member's business referee; (b) to post and publish their contact details and information, reference letters and comments on their behalf; and (c) that third parties may contact such business referees to support claims or statements made about the Member. Each Member further warrants that all reference letters and comments are true and accurate and hereby waives all requirements for such Member's consent to be obtained before third parties may contact the business referees. Each Member must keep the personal information collected as strictly confidential and may not disclose it to any third-party including affiliates without the authorization or consent of those subjected to collection, except when doing so is required for cooperation in regulatory or law enforcement activities in accordance with the law.
+
+
+
+3.4    Member shall not take any action which may undermine the integrity of AliExpress.com's feedback system, such as including content prohibited by applicable laws and regulations, leaving positive feedback for itself using secondary Member IDs or through third parties or by leaving false, fabricated or unsubstantiated negative feedback for another Member. Member shall also disclose its relationship with the user for which such Member is posting a review. Member acknowledges that AliExpress.com has the right to take measures regarding such feedback in accordance with applicable laws.
+
+
+
+3.5    Each Member acknowledges and agrees that AliExpress.com reserves the right to, but shall not be required to actively monitor nor exercise any editorial control whatsoever over the content of any message or other material or information created, obtained or accessible through the Service. AliExpress.com does not endorse, verify or otherwise certify the contents of any comments or other material or information made by any Member. Each Member is solely responsible for the contents of their communications and may be held legally liable or accountable for the content of their comments or other material or information.
+
+
+
+3.6    Each Member represents, warrants and agrees that it has obtained all necessary third party licenses and permissions and shall be solely responsible for ensuring that any material or information it posts on the Sites or provides to AliExpress.com or authorizes AliExpress.com to display does not violate the copyright, patent, trademark, trade secrets or any other personal or proprietary rights of any third party or is posted with the permission of the owner(s) of such rights. Each Member further represents, warrants and agrees that it has the right and authority to sell, distribute or offer to sell or distribute the products described in the material or information it posts on the Sites or provides to AliExpress.com or authorizes AliExpress.com to display.
+
+
+
+3.7    To the extent applicable, each Member represents, warrants and agrees that certain products sold to California require a warning under California Health  Safety Code Section 25249.6 (a Proposition 65 Warning) and each Member shall (a) promptly display a Proposition 65 Warning on the product detail page as required under the relevant law; (b) authorize AliExpress.com to display a Proposition 65 Warning on your behalf; and (c) only revise or remove a Proposition 65 Warning for a product when the prior warning needs to be modified or is no longer legally required, as the case may be.
+
+
+
+    3.8    If any Member breaches the representations, warranties and covenants of paragraphs 3.1, 3.2, 3.3, 3.4, 3.5 , 3.6 or 3.7 above, or if AliExpress.com has reasonable grounds to believe that such Member is in breach of such representations, warranties and covenants, or if upon complaint or claim from any other Member or third party, AliExpress.com has reasonable grounds to believe that such Member has willfully or materially failed to perform its contract with such third party including without limitation where a Member who supplies products or services using the Sites and Services has failed to deliver any items ordered by such third party after receipt of the purchase price, or where such Member has delivered the items that materially fail to meet the terms and descriptions outlined in its contract with such third party"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+</androidx.constraintlayout.widget.ConstraintLayout>

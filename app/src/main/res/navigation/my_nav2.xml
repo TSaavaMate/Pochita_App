@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav2"
+    app:startDestination="@id/homeFrag">
+
+    <fragment
+        android:id="@+id/accountFrag"
+        android:name="com.example.Pochita.Mainpage.AccountFrag"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account" />
+    <fragment
+        android:id="@+id/feedFrag"
+        android:name="com.example.Pochita.Mainpage.FeedFrag"
+        android:label="fragment_feed"
+        tools:layout="@layout/fragment_feed" />
+    <fragment
+        android:id="@+id/cartFrag"
+        android:name="com.example.Pochita.Mainpage.CartFrag"
+        android:label="fragment_cart"
+        tools:layout="@layout/fragment_cart" />
+    <fragment
+        android:id="@+id/homeFrag"
+        android:name="com.example.Pochita.Mainpage.HomeFrag"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+        <deepLink
+            android:id="@+id/deepLink"
+            app:action="ACTION_ALL_APPS"
+            app:uri="www.pochita.com/Home" />
+    </fragment>
+</navigation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/blankFragment1">
+
+    <fragment
+        android:id="@+id/blankFragment1"
+        android:name="com.example.Pochita.FirstMainPage"
+        android:label="fragment_blank1"
+        tools:layout="@layout/fragment_firstmainpage" >
+        <action
+            android:id="@+id/action_blankFragment1_to_blankFragment2"
+            app:destination="@id/blankFragment2" />
+        <action
+            android:id="@+id/action_blankFragment1_to_joinfrag"
+            app:destination="@id/joinfrag" />
+    </fragment>
+    <fragment
+        android:id="@+id/blankFragment2"
+        android:name="com.example.Pochita.helpAction"
+        android:label="fragment_blank2"
+        tools:layout="@layout/helpaction" >
+        <argument
+            android:name="name"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/joinfrag"
+        android:name="com.example.Pochita.loginfrag.Joinfrag"
+        android:label="fragment_joinfrag"
+        tools:layout="@layout/fragment_joinfrag" >
+        <argument
+            android:name="name"
+            app:argType="string" />
+    </fragment>
+</navigation>

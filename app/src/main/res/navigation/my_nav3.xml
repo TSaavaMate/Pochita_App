@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav3"
+    app:startDestination="@id/magazinefrag">
+
+    <fragment
+        android:id="@+id/sellerfrag"
+        android:name="com.example.Pochita.seller.sellerfrag"
+        android:label="fragment_sellerfrag"
+        tools:layout="@layout/fragment_sellerfrag" />
+    <fragment
+        android:id="@+id/magazinefrag"
+        android:name="com.example.Pochita.sellerfrags.magazinefrag"
+        android:label="fragment_magazinefrag"
+        tools:layout="@layout/fragment_magazinefrag" />
+    <fragment
+        android:id="@+id/settingfrag"
+        android:name="com.example.Pochita.sellerfrags.settingfrag"
+        android:label="fragment_settingfrag"
+        tools:layout="@layout/fragment_settingfrag" />
+</navigation>

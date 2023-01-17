@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="magazine"
+        android:icon="@drawable/inventory"
+        android:id="@+id/magazinefrag"/>
+    <item android:title="setting"
+        android:icon="@drawable/settingforseller"
+        android:id="@+id/settingfrag"/>
+</menu>

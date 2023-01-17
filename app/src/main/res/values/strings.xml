@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pochita</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="description">find,discover choose and buy everything in online with pochita</string>
+    <!-- Strings related to login -->
+    <string name="date_format">%1$d/%2$d/%3$d</string>
+    <string name="message_eror">you dont have any Messages yet</string>
+    <string name="dsa_self_paced_course">DSA Self Paced Course</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="buy">buy</string>
+    <string name="shipping_fee_2">shipping fee 2$</string>
+    <string name="course_tracks_30">Course Tracks : 30</string>
+    <string name="magazine_name">magazine name</string>
+    <string name="content">content</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id_token_google">914149224619-erik0t4i1gq3pkah76m35m0dnmjgvphr.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sellerfrags.magazinefrag">
+<ImageView
+    android:layout_width="250dp"
+    android:layout_height="250dp"
+    android:layout_gravity="center"
+    android:id="@+id/add_product_on_magazine"
+    android:visibility="visible"
+    android:src="@drawable/add_product"
+    android:contentDescription="@string/content" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:id="@+id/magName"
+        android:textAlignment="center"
+        android:text="@string/magazine_name"
+        app:drawableEndCompat="@drawable/magazine_icon" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/recViewseller"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="50dp"
+        android:layout_height="match_parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="40dp"
+        android:layout_marginStart="330dp"
+        android:src="@drawable/add_icon_s"
+        android:focusable="true"
+        android:contentDescription="@string/content" />
+
+</FrameLayout>

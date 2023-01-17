@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="8dp"
+    android:layout_margin="4dp"
+    app:cardCornerRadius="20dp"
+    android:layout_height="wrap_content">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:id="@+id/Relative_row"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="100dp"
+        android:id="@+id/image"
+        android:layout_height="100dp"
+        android:src="@drawable/welcome"/>
+    <TextView
+        android:id="@+id/gel"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Gel:"/>
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="145dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="45"/>
+
+    <TextView
+        android:id="@+id/shipp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="240dp"
+        android:drawableTint="#03A9F4"
+        android:drawableLeft="@drawable/shipping_icon"
+        android:layout_height="wrap_content"
+        android:textSize="13dp"
+        android:text="ship to 6-10"/>
+
+    <TextView
+        android:layout_width="270dp"
+        android:id="@+id/description"
+        android:layout_below="@id/price"
+        android:layout_marginStart="110dp"
+        android:layout_height="70dp"
+        android:text="some default description">
+    </TextView>
+    <TextView
+        android:id="@+id/rating"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/shipp"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="40dp"
+        android:drawableTint="#C10F0F"
+        android:drawableLeft="@drawable/ic_baseline_star_rate_24"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="4.6"/>
+</RelativeLayout>
+</androidx.cardview.widget.CardView>

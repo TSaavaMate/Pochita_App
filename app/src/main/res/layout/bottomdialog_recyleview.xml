@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:background="@drawable/rounded_dialog"
+    android:layout_margin="2dp">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="8dp"
+        android:id="@+id/item"
+        android:src="@drawable/welcome"/>
+    <TextView
+        android:id="@+id/forprice"
+        android:drawableEnd="@drawable/dollar_ic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="120dp"
+        android:text="@string/dsa_self_paced_course"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/forshipping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/course_tracks_30"
+        android:layout_marginStart="120dp"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/forrating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/forshipping"
+        android:drawableEnd="@drawable/ic_baseline_star_rate_24"
+        android:text="somerating"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/forshipping"
+        android:layout_marginStart="120dp"
+        android:textColor="@color/black"
+        android:text="pair 1/1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:layout_below="@id/item"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btncart"
+            android:layout_width="160dp"
+            android:layout_marginStart="40dp"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="#DF0707"
+            android:text="@string/add_to_cart"
+            android:textAllCaps="false"
+            style="?android:attr/buttonBarButtonStyle" />
+        <Button
+            android:id="@+id/btnbuy"
+            android:layout_width="160dp"
+            android:layout_marginStart="2dp"
+            android:background="@drawable/forbutton"
+            android:layout_height="wrap_content"
+            android:text="@string/buy"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="100dp"
+        android:layout_below="@+id/forrating"
+        android:layout_marginStart="300dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="@string/shipping_fee_2" />
+
+
+</RelativeLayout>
