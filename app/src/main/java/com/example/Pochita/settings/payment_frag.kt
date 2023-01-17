@@ -136,9 +136,7 @@ class payment_frag : Fragment(R.layout.fragment_payment_frag) {
                 TextUtils.isEmpty(CVV.text.toString().trim())->{CVV.error="input CVV"
                     isValidationSuccessful = false
                 }
-                name.text.toString()==name.text.toString().trim()->{name.error="you must input name and surname form card"
-                    isValidationSuccessful = false
-                }
+
                 cardNum.text.toString().length!=16->{cardNum.error="card number must be 16 digits"
                     isValidationSuccessful = false
                 }
