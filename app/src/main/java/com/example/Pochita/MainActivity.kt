@@ -11,9 +11,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.splash_screen_bc)
         supportActionBar?.hide()
 
+
         Handler(Looper.getMainLooper()).postDelayed({
             setContentView(R.layout.activity_main)
-        },600)
+        },500)
 
 
 
