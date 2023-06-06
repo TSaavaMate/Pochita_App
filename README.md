@@ -21,15 +21,25 @@ Both buyers and sellers can easily sign in to their accounts without having to e
 
 Buyer Features 🛍️
 Browse Products 📚: Explore various types of products organized by sections on your main page. You can also view random product listings in the feed page.
+
 Cart and Wishlist 🛒❤️: Add items to your cart for immediate purchase or save them in your wishlist for future reference.
+
 Purchase Process 💳: View detailed information about products before making a purchase. Track shipped items and manage payment and location data through your account settings. You can also access information about canceled or unsuccessful orders.
+
 Coupons 🎟️: In the near future, enjoy the ability to use your own coupons for special purchases.
+
 Support 🆘: If you have any questions or encounter errors, our help center is available to assist you. Feel free to contact us.
+
 Seller Features 🏬
+
 Manage Store 🏪: Customize your store's name, description, prices, and other details from the first page.
+
 Order Management 📦: Access lists of shipped, reviewed, disputed, canceled, and unsuccessful products.
+
 Security 🔒: Enhance account security by changing passwords as needed. Contact our support team through the help center.
+
 Future Updates 🚧: Stay informed about ongoing orders with upcoming track and trace features.
+
 Conclusion 🎊
 Congratulations! You are now ready to integrate with Pochita and enjoy its seamless buying and selling experiences. Have fun using Pochita and feel free to reach out to us for any assistance.
 
